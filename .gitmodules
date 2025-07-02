@@ -1,0 +1,3 @@
+[submodule "build/clones/c-for-go"]
+	path = build/clones/c-for-go
+	url = https://github.com/xlab/c-for-go.git
